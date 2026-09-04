@@ -16,7 +16,7 @@ const DEFAULT_CONFIG = {
     facebookUrl: "https://facebook.com/lucine.studio",
     // Plain-text password checked client-side by admin.html.
     // This is convenience protection only — see the note in admin.html.
-    adminPassword: ,
+    adminPassword: "lucine2026" ,
     // Pre-filled in the doctor request form's phone field (e.g. "+213").
     defaultCountryCode: "+213"
   },
