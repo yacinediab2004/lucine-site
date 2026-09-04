@@ -11,7 +11,7 @@ const DEFAULT_CONFIG = {
 
   settings: {
     // Digits only, international format, no "+" (example: Algeria = 213...)
-    whatsappNumber: "213555000000",
+    whatsappNumber: "213657013901",
     instagramUrl: "https://instagram.com/lucine.studio",
     facebookUrl: "https://facebook.com/lucine.studio",
     // Plain-text password checked client-side by admin.html.
